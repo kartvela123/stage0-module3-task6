@@ -2,7 +2,7 @@ package lang.print.gaps.task6;
 
 public class PrePostIncrement {
     public static void main(String[] args) {
-        int a = 5;
+        int a = 5 + 1;
         int b = 7;
         int c = 12;
         int d = 15;
